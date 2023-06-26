@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "employee-details"
+  "defaultProject": "employee-details",
+  "cli": {
+    "analytics": false
+  }
 }
